@@ -106,7 +106,7 @@ Large-scale photo-realistic dataset containing 3.5K house designs created by pro
 1. **Facade Solar Radiation with HoneyBee Radiance.** <br>
 396 radiance simulations of different urban contexts in Singapore in csv. [Repo](https://github.com/chanjunha0/GNN_Solar_Prediction)
    
-    *Chan Jun Hao, Rudi Stouffs.* 
+    *Chan Jun Hao, Rudi Stouffs. Department of Architecture, National University of Singapore* 
 
 ## City Models
 1. **hdb3d-data.** <br>
@@ -138,9 +138,14 @@ Dataset of activity spaces, originally based on publicly posted and geotagged so
 
 ## Others
 1. **Singapore's open data portal** <br>
-4000+ datasets from 70 government agencies in Singapore. Has APIs for live data. [Dataset](https://beta.data.gov.sg/)
-   
+4000+ datasets from 70 government agencies in Singapore. Has APIs for live data. [Dataset & API](https://beta.data.gov.sg/)
+
     *Singapore's data.gov team* 
+
+1. **Singapore's transport data** <br>
+Singapore's Land Transport Authority publishes a wide variety of land transport-related datasets (static and dynamic / real-time). Has APIs for live data. [Dataset & API](https://datamall.lta.gov.sg/content/datamall/en.html)
+   
+    *Land Transport Authority, Singapore* 
 
 # Licenses
 Please refer to the respective repositories / links for their licenses.
