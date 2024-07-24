@@ -70,7 +70,7 @@ This dataset contains 10k images from 25 architectural styles. [Dataset](https:/
 10. **Parking Space Detection.** <br>
 30 images of parking spaces along with corresponding bounding box masks. [Kaggle](https://www.kaggle.com/datasets/trainingdatapro/parking-space-detection-dataset)
    
-    *Nil.* 
+    *Author not found.* 
 
 11. **HouseExpo.** <br>
 35k 2D floor plans with 252k rooms in total, together with the category label of each room. [Repo](https://github.com/teaganli/houseexpo/)
@@ -130,11 +130,6 @@ Large-scale photo-realistic dataset containing 3.5K house designs created by pro
 Dataset of activity spaces, originally based on publicly posted and geotagged social media sent within the United States from 2012 to 2019. The dataset, contains approximately 2 million users and 1.2 billion data points. [Dataset](https://rdr.kuleuven.be/dataset.xhtml?persistentId=doi:10.48804/MBT32W)
    
     *Ate Poorthuis, Qingqing Chen, Matthew Zook* 
-
-2. **Dengue Clusters, Singapore** <br>
-7 years of geo-tagged dengue cases data in Singapore from 2013-2020 in csv. [Dataset](https://outbreak.sgcharts.com/data)
-   
-    *SG Outbreak, Singapore National Environment Agency* 
 
 ## Others
 1. **Singapore's open data portal** <br>
